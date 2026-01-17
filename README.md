@@ -1,2 +1,3 @@
 # AKAOUR-KATIA-PA
-Repository for Practical Assignment 2026
+This is my Practical Assignment for the Academic Writing course. It includes a literary analysis of The Great Gatsby.
+By AKAOUR Katia.
